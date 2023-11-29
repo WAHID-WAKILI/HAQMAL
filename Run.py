@@ -1,2 +1,2 @@
-from SS import awm
+from SSA import awm
 awm()
